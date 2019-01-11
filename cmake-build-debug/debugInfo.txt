@@ -1,0 +1,2 @@
+The loop ran 10 times 
+The program ran in 235956 nanoseconds

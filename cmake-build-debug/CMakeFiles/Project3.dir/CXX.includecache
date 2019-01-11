@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/owen/Documents/CandC++/Projects/Project3/main.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+thread
+-
+
